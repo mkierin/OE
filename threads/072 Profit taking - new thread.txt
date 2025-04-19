@@ -1,0 +1,110 @@
+1/10
+
+7 years tracking Bitcoin cycles shows:
+
+Price alone lies.
+
+The Onchain Edge Index reveals true market extremes - when to accumulate or take profits.
+
+No charts needed. Here's why: 
+
+2/10
+
+The critical error?
+
+Using price as your only signal.
+
+Market tops/bottoms become obvious in hindsight. The Index spots them in real-time.
+
+Here's how it works:
+
+3/10
+
+5 core metrics drive the Index:
+
+→ MVRV Z-Score (fair value)
+→ NUPL (profit/loss balance)
+→ Puell Multiple (miner stress)
+→ Reserve Risk (holder conviction)
+→ RHODL Ratio (holder behavior)
+
+4/10
+
+Why these metrics matter:
+
+They track blockchain reality - coins moving, miners selling, holders accumulating.
+
+Together, they've predicted every cycle since 2017.
+
+Here's what charts hide:
+
+5/10
+
+The output is simple:
+
+→ Green: Accumulate (<15% downside)
+→ Yellow: Hold
+→ Red: Take profit (>60% downside risk)
+
+Pattern validated through 3 market cycles.
+
+6/10
+
+Historical performance:
+
+→ 2017 peak: Red signal 2 weeks early
+→ 2018-19 bottom: 9-month green zone
+→ 2021 tops: Red before both
+→ 2022 bottom: Green at $16k
+
+Cycles persist. Data doesn't care about hype.
+
+7/10
+
+The advantage of the Onchain Edge Index?  
+Weekly insights mean less time glued to charts.  
+Preset risk zones help you make informed decisions without the stress.
+
+8/10
+
+The Index tracks key on-chain metrics:  
+→ Coin movements  
+→ Miner activity  
+→ Holder behavior  
+→ Value deviations  
+
+All data-driven and transparent.
+
+9/10
+
+Quick Update: The Onchain Edge Dashboard is Live!
+
+Check it out here: [https://onchainedge.com/]
+
+Current OEI Value: **48.7**
+
+Dashboard Features:
+→ Main BTC chart with buy/sell arrows
+→ OEI chart showing risk zones
+→ Current readings and recent signals
+
+Risk Levels Breakdown:
+→ 0-10: Extremely good time to buy (DCA Factor: 2)
+→ 11-20: Very good time to buy (DCA Factor: 1.5)
+→ 21-30: Good time to buy (DCA Factor: 0.5)
+→ 31-60: Neutral (DCA Factor: 0)
+→ 61-70: Good time to sell (DCA Factor: -0.5)
+→ 71-80: Very good time to sell (DCA Factor: -1.5)
+→ 81-100: Extremely good time to sell (DCA Factor: 2)
+
+Remember:
+This is a risk meter, not a price predictor. It's built for spot holders.
+
+10/10
+
+Weekly briefings include:
+
+No more guessing. Onchain Edge Newsletter delivers clear insights for your crypto journey.
+Join 700+ investors trading smarter:
+
+[NEWSLETTER LINK IN REPLY]

@@ -1,0 +1,258 @@
+#055 - Onchain Edge Index: Buy Low, Sell High: BTC Investing Without Watching Prices
+share on facebook
+ 	
+share on twitter
+ 	
+share on threads
+ 	
+share on linkedin
+ 
+ 	
+Hey everyone! 🎉
+
+I've got some exciting news to share today. After months of hard work and fine-tuning, I'm finally ready to reveal the Onchain Edge Index to you.
+
+This tool has been my secret weapon in navigating the crypto market, and I'm thrilled to share it with you.
+
+Every week you get a 5-minute crypto strategy to become a smarter investor (from a 7+ year crypto veteran)
+
+Onchain Edge
+
+Join now
+
+Click the link below to access it:
+
+Here’s the link to the onchain edge index web view
+
+The Story Behind the Onchain Edge Index
+
+So, picture this. Last year, I was chilling on the beautiful beaches of Thailand, and a thought hit me. 🏖️
+
+
+I didn't have the time to scrutinize onchain charts every day. Setting alerts for a single metric? Not cutting it. I needed a better system – a way to assess whether the market was overheated quickly.
+
+Like many investors, I faced emotional struggles when deciding whether to buy during bear markets.
+
+Looking at the price alone was tough and emotionally taxing.
+
+So, I started developing the Onchain Edge Index for my personal use.
+
+I wanted it to be a solid tool before sharing it publicly. Over time, I’ve shared its values on social media a few times, but now, it's time for a full reveal.
+
+The secret sauce behind the onchain edge index
+I won't bore you with all the technical details, but here's the gist.
+
+I analyzed a number of onchain metrics, including MVRV, NUPL, and the Puell Multiple.
+
+I wanted onchain metrics that were excellent at providing a raw view of the current market condition without sentiment bias.
+
+After a lot of backtesting I found the settings that I’m confident in.
+
+I identified which values provide the best ideal buying opportunities and which signal that the market is overheated.
+
+Before I share the onchain edge index spreadsheet with you, I want to give you a quick rundown and show you some past data.
+
+This way, you can get a better idea on what the onchain index can do and can’t.
+
+To make it easy to understand, I created charts using light blue and blue to show the best times to buy, and red and yellow for the best times to sell.
+
+The Onchain Edge Index ranges from 0 to 100. Numbers closer to 0 mean it's an excellent time to buy, and numbers closer to 100 mean it's an excellent time to sell.
+
+Can’t get simpler than that.
+
+2017 bull run - The rally where I lost most of my money
+
+This was a crazy rally because no one really knew what to expect.
+
+Depending on what strategies you decide to use for the onchain edge index you would have slowly started to sell BTC at 2.5k all the way up to $19k
+
+That would have given you a lot of capital to buy back in the 2018/2019 bear market.
+
+Nice!
+
+
+2021 - Onchain metrics triggered at the first peak
+
+This rally was also quite crazy.
+
+I also made countless mistakes. I only started diving deeper into onchain metrics after the first part of the rally, after having lost 50% of my unrealized gains.
+
+I decided enough was enough and spent hours diving and learning everything I could about onchain metrics and started developing an early onchain risk metric.
+
+Unfortunately, the second part of the rally never triggered onchain sell signals. But by looking at the chart, the onchain metrics showed a strong bearish divergence.
+
+Even though I sold quite a bit at the top, I bought back too early quite a few times in the bear market.
+
+Luckily I wasn’t affected by FTX and also prevented friends from losing over $2m in the LUNA crash. (But that’s a story for another day)
+
+
+2023 - A new beginning
+
+I’m happy with the current state of the market and the onchain edge index values. If you’ve been following me a while you will definitely have noticed that the values have changed quite a bit.
+
+That’s because i’ve changed the calculations and made them more precise.
+
+We still have a long way to go before we reach risky levels again.
+
+Now it’s a patience game.
+
+
+Here’s an example of Very good time to buy signal on the chart, provided excellent entries into BTC at the beginning of 2023.
+
+Below you can see how it looks like in the google sheets.
+
+
+Breakdown of the risk levels
+Here's a quick breakdown of the index values:
+
+0-10: Extremely good time to buy (Extremely low risk, DCA Factor: 2)
+
+11-20: Very good time to buy (Low risk, DCA Factor: 1.5)
+
+21-30: Good time to buy (Moderate-low risk, DCA Factor: 0.5)
+
+31-60: Neutral (Medium risk, DCA Factor: 0)
+
+61-70: Good time to sell (Moderate-high risk, DCA Factor: -0.5)
+
+71-80: Very good time to sell (High risk, DCA Factor: -1.5)
+
+81-100: Extremely good time to sell (Extremely high risk, DCA Factor: 2)
+
+How to use the Onchain Edge Index
+This is a section that definitely needs to be refined a lot more as I do more backtesting.
+
+But in the mean time here are a few ideas on how you can use the onchain edge index to better time the market.
+
+Define a weekly or monthly investment amount.
+
+If you're new to crypto and want to capitalize on the current cycle, you have two options:
+
+Lump buy at the current price (higher volatility risk).
+
+Dollar-cost average (DCA) into the market until the first good time to sell signal. Then, DCA out of the market aggressively to have cash ready for the bear market.
+
+If you've bought during the bear market near the bottom, just be patient. Start DCA out of the market when risk levels rise.
+
+Use the DCA weighting to increase the amount you buy or sell.
+
+What the Onchain Edge Index is and is not
+This is not financial advice or a recommendation to buy or sell. It's my assessment of the current BTC market risk and what I might do.
+
+You might buy too early in the bear market, not buy enough, or miss the perfect bottom.
+
+Similarly, at the next peak, BTC might not reach the extreme levels needed to trigger a sell signal due to market conditions. For instance, in 2021, signals were only triggered during the first part of the bull run.
+
+Patience is crucial. You might sell a significant part of your portfolio at the peak and wait over a year to buy again. This waiting period can be tough, and many people fail by overtrading.
+
+
+
+November 07, 2024   |   Read Online
+
+#072 - Onchain Edge Index: Your Profit-Taking Guide
+A hightimeframe look at the crypto market, onchain edge index new charts
+
+like
+ 
+share on facebook
+ 	
+share on twitter
+ 	
+share on threads
+ 	
+share on linkedin
+While the market is in boring mode I will be switching the newsletter to a bi-monthly version. That means two newsletter each month or when I have something interesting to share. When the market picks up I will switch back.
+
+ 
+Kierin
+📊 Onchain Edge Index: Your Profit-Taking Guide
+Current Onchain Edge Index: 40.98 | Market Status: Medium
+
+
+🎯 TL;DR
+The Onchain Edge Index helps you make systematic buying and selling decisions based on market phases. During bear markets, capital is deployed slowly for over 12 months. In bull markets, take profits more aggressively over shorter 3-month periods.
+
+ 
+Learning from the 2017 Rally
+Learning from the 2021 Rally
+The 2021 Bitcoin rally demonstrates perfectly why following systematic signals matters more than emotions. Here's how it played out:
+
+
+Blue triangles are buy signals orange/red triangles are sell signals 2020-2022
+
+Buying Phase
+Multiple buy signals appeared below $6,000 (ranging from $3,300 to $5,000)
+
+First sell signals triggere around $28,000—a 8x increase (10x with higher signals)
+
+Sell signals continued through the rally up to $62,000
+
+
+first sell signal
+
+The Deadcat bounce Second Peak
+Here's where a lot of traders got trapped: This is an important caveat for the tool. Even though BTC surged again in late 2021, many people thought this was a continuation of the bullrun, and we would break all-time high again. What’s more, the on-chain data showed new sell signals.
+
+Keep this in mind during the next rally. The hardest part is being patient and controlling your emotions. The dead cat bounce was brutal, trapping many retail traders chasing new highs.
+
+The 2022 Bear market
+Patience proved crucial as:
+
+Buy signals appeared at various levels
+
+Opportunities emerged as low as $16,000
+
+Those who followed initial sell signals preserved capital
+
+
+The Onchain Edge Index Buy/Sell Framework
+I've developed a systematic approach based on market phases:
+
+Here’s a sneak peak. It’s not available yet but will be available on the new onchain edge website.
+
+
+
+Bear Market Strategy Example (12-Month Phase)
+Weekly Buy Target: 1.67% of cash position
+
+At DCA -2: Double your base amount
+
+Example: $10,000 cash = $167 weekly base buy
+
+Bull Market Strategy (3-Month Phase)
+Base Sell Rate: 6.67% of BTC position
+
+At DCA +0.5: Sell 3.33% of holdings
+
+At DCA +1.5/+2.5: Increase selling percentage
+
+How to Use It:
+Enter your total position size
+
+Input current Onchain Edge Index reading
+
+System calculates recommended action size
+
+Adjust based on your risk tolerance
+
+Looking Forward
+The calculator will be released soon with:
+
+Custom position inputs
+
+Automated calculations
+
+DCA weighting adjustments
+
+Market phase detection
+
+Stay systematic,
+
+Kierin
+
+P.S. - Bear markets give you time to accumulate, but bull markets require quick action. The Onchain Edge Index and calculator help you stay disciplined through both phases.
+
+P.S this is the 2017 bull run chart
+
+
+Access the Daily Onchain Onchain Edge Index Alert Bot Free
